@@ -1,0 +1,19 @@
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.exe
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.deps.json
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.runtimeconfig.json
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.runtimeconfig.dev.json
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.dll
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\ref\AgenciaBancaria.App.dll
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.pdb
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\Agencia Bancaria.Dominio.dll
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\Agencia Bancaria.Dominio.pdb
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.csproj.AssemblyReference.cache
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.AssemblyInfoInputs.cache
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.AssemblyInfo.cs
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.csproj.CoreCompileInputs.cache
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.csproj.CopyComplete
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.dll
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\ref\AgenciaBancaria.App.dll
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.pdb
+D:\ProjetosMVC\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.genruntimeconfig.cache

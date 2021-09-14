@@ -1,0 +1,12 @@
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\bin\Debug\net5.0\Agencia Bancaria.Dominio.deps.json
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\bin\Debug\net5.0\Agencia Bancaria.Dominio.dll
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\bin\Debug\net5.0\ref\Agencia Bancaria.Dominio.dll
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\bin\Debug\net5.0\Agencia Bancaria.Dominio.pdb
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\obj\Debug\net5.0\Agencia Bancaria.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\obj\Debug\net5.0\Agencia Bancaria.Dominio.AssemblyInfoInputs.cache
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\obj\Debug\net5.0\Agencia Bancaria.Dominio.AssemblyInfo.cs
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\obj\Debug\net5.0\Agencia Bancaria.Dominio.csproj.CoreCompileInputs.cache
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\obj\Debug\net5.0\Agencia Bancaria.Dominio.dll
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\obj\Debug\net5.0\ref\Agencia Bancaria.Dominio.dll
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\obj\Debug\net5.0\Agencia Bancaria.Dominio.pdb
+D:\ProjetosMVC\AgenciaBancaria\Agencia Bancaria.Dominio\obj\Debug\net5.0\Agencia Bancaria.Dominio.csproj.AssemblyReference.cache
